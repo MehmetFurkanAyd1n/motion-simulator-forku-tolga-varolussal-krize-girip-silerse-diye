@@ -31,7 +31,7 @@ STL files can be 3d printed with any material (I used PLA)
 ("Mafsal" is a shift rod universal joint, sorry for the weird naming)
 
 ## MOTION COMPENSATION
-If you will use VR you will need motion compensation. I use a Quest 3 headset and the easiest way to do motion compensation with it is <a href="https://www.infusevr.com/" target="_blank">Part 2</a>
+If you will use VR you will need motion compensation. I use a Quest 3 headset and the easiest way to do motion compensation with it is <a href="https://www.infusevr.com/" target="_blank">Infuse VR</a>
 
 Here is a <a href="https://www.youtube.com/watch?v=juNZTGpDjnA" target="_blank">tutorial video</a> to set it up.
 
