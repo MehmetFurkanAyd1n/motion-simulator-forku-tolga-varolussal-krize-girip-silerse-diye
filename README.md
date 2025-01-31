@@ -11,7 +11,7 @@ Building progress is documented on my YouTube channel (it's in Turkish, but auto
 
 ## ELECTRONICS & SOFTWARE
 Here is a nice <a href="https://www.xsimulator.net/community/threads/smc3-arduino-3dof-motor-driver-and-windows-utilities.4957/" target="_blank">tutorial</a> to setup the electronics and the software.
-I also designed a simple arduino shield PCB (included in this repo). If you get that manufactured it will make the wiring a lot easier. You can easily get it produced with a service like <a href="www.jlcpcb.com" target="_blank">Jlcpcb</a>
+I also designed a simple arduino shield PCB (included in this repo). If you get that manufactured it will make the wiring a lot easier. You can easily get it produced with a service like <a href="https://www.jlcpcb.com" target="_blank">Jlcpcb</a>
 
 ## MOTORS
 You will need 2 motors to move the simulator. Their specs should be:
